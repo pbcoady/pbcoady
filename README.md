@@ -1,0 +1,2 @@
+- My name is Parker Coady. I'm a recent graduate from WPI looking to expand his programming repitoire by contributing to interactive applications for all kinds of people.
+- My work here is currently limited to work I've done in class.

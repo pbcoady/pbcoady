@@ -1,2 +1,3 @@
-- My name is Parker Coady. I'm a recent graduate from WPI looking to expand his programming repitoire by contributing to interactive applications for all kinds of people.
+- My name is Parker Coady. I'm a graduate from WPI looking to expand his programming repitoire by contributing to interactive applications for all kinds of people.
 - Much of my work here is school projects.
+- As of February 2026, I am an Agentic Code Writer at Mercor. You'll see me evaluating, critiquing, and building infrastructure for code developed by LLMs.
